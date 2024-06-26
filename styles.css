@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+#table-1, #table-2, #table-3{
+	width:100%;
+	border:1px solid black;
+	margin-bottom:50px;
+}
+#table-1 td, #table-2 td, #table-3 td{
+	border:1px solid black;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right
+}
+#table-2{
+	height:200px
+}
