@@ -10,10 +10,10 @@
   #table-1 td, #table-2 td, #table-3 td{
     border:1px solid black;
   }
-  .center{
+  #table-1 tr td:nth-child(2){
     text-align:center;
   }
-  .right{
+  #table-1 tr td:nth-child(3){
     text-align:right
   }
   #table-2{
